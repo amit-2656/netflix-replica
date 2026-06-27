@@ -16,6 +16,6 @@ API integration (TMDB API) Dynamic movie data Login page UI User profiles Dark/l
 # Author:
 Amit singh
 
-GitHub:
+GitHub:https://github.com/amit-2656
 
-LinkedIn:
+LinkedIn:https://www.linkedin.com/in/amit-singh
